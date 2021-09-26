@@ -17,7 +17,7 @@ header {
 }
 header h1 {
   margin-top: 10px;
-  font-size: 50px;
+  font-size: 40px;
 }
 main {
   display: flex;
@@ -36,6 +36,6 @@ main {
   justify-content: center;
 }
 .repository .name {
-  margin: 10px;
-  font-size: 40px;
+  margin: 20px;
+  font-size: 32px;
 }
